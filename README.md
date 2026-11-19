@@ -1,5 +1,5 @@
 # 💫 About Me:
-im  default <br>بلدم ویندوز نصب کنم <br>ولی لینوکس رو بیشتر دوست دارم 
+im  default 
 
 
 ## 🌐 Socials:
